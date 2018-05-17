@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="schemas" />
+      <item value="Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead." />
       <item value="throws" />
       <item value="Factory" />
       <item value="final" />
