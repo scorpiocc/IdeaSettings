@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="文件 &quot;[first-demo3] - ...\src\main\java\com\xc\mapper\UserMapper.xml&quot;" />
-    <option name="defaultScopeName" value="文件 &quot;[first-demo3] - ...\src\main\java\com\xc\mapper\UserMapper.xml&quot;" />
-    <option name="SEARCH_SCOPE" value="文件 &quot;[first-demo3] - ...\src\main\java\com\xc\mapper\UserMapper.xml&quot;" />
+    <option name="customScope" />
+    <option name="defaultScopeName" />
+    <option name="SEARCH_SCOPE" />
   </component>
 </application>
